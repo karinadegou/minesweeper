@@ -27,7 +27,7 @@ This is a simple Minesweeper game implemented using Python and `tkinter` for the
 2. Run the game:
 
     ```bash
-    python minesweeper.py
+    python main.py
     ```
 
 ## Gameplay
